@@ -75,8 +75,10 @@ The complete implementation is inside `dl_finalcode.ipynb`.
 | Model        | Validation Accuracy | Macro F1 |
 |-------------|--------------------|----------|
 | Audio-only  | ~65%               | —        |
-| Video-only  | Lower              | —        |
+| Video-only  | ~61%              | —        |
 | Fusion      | **70.5%**          | **0.70** |
+<img width="691" height="409" alt="image" src="https://github.com/user-attachments/assets/a9dd2aa3-33d8-44ab-bf28-0201ed4443d0" />
+
 
 ---
 
